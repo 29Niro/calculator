@@ -1,4 +1,4 @@
-package com.kelaniya.uni;
+package com.kelaniya.uni.v1;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -20,7 +20,7 @@ public class HelloWorld {
             System.out.println("Type an operation Add or Sub or Mul :");
             Scanner newLine = new Scanner(System.in);
             String operation = newLine.nextLine();
-            System.out.println(operation);
+            //System.out.println(operation);
 
             switch (operation){
                 case "Add": answer = numA + numB;
