@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de35c7cd-198a-490e-9fdb-14a17fd20bc4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -51,7 +55,7 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kelaniya.uni.v2.Main" />
       <module name="calculator" />
-      <option name="PROGRAM_PARAMETERS" value="Add" />
+      <option name="PROGRAM_PARAMETERS" value="Mul" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kelaniya.uni.v2.*" />
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630200273571</updated>
-      <workItem from="1630200352252" duration="2250000" />
+      <workItem from="1630200352252" duration="5115000" />
     </task>
     <servers />
   </component>

@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class HelloWorld {
     public static void main(String... args) {
         int answer = 0;
-        try{
+        try {
             File myObj = new File("src/main/resources/input.txt");
             Scanner myReader = new Scanner(myObj);
             int numA = myReader.nextInt();
@@ -22,17 +22,20 @@ public class HelloWorld {
             String operation = newLine.nextLine();
             //System.out.println(operation);
 
-            switch (operation){
-                case "Add": answer = numA + numB;
-                break;
-                case "Sub": answer = numA - numB;
-                break;
-                case "Mul": answer = numA * numB;
-                break;
+            switch (operation) {
+                case "Add":
+                    answer = numA + numB;
+                    break;
+                case "Sub":
+                    answer = numA - numB;
+                    break;
+                case "Mul":
+                    answer = numA * numB;
+                    break;
             }
 
             System.out.print(answer);
-        } catch (FileNotFoundException e){
+        } catch (FileNotFoundException e) {
             System.out.println("An Error");
             e.printStackTrace();
         }
