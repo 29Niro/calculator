@@ -11,6 +11,8 @@ public class OperationFactory {
             operation = new SubOperation();
         } else if (operator.equals("Mul")) {
             operation = new MulOperation();
+        } else if (operator.equals("Div")) {
+            operation = new DivOperation();
         }
 
         return operation;

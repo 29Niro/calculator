@@ -14,8 +14,6 @@ public class Main {
 
         FileReader fileReader = new FileReader();
         Double[] numbers = fileReader.getNumbers();
-        Double number1 = numbers[0];
-        Double number2 = numbers[1];
 
         double result = 0;
 

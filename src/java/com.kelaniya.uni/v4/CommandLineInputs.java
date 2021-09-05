@@ -20,7 +20,7 @@ public class CommandLineInputs {
         String operator = args[0];
 
         //another validation
-        if (!(operator.equals("Add") || operator.equals("Sub") || operator.equals("Mul"))) {
+        if (!(operator.equals("Add") || operator.equals("Sub") || operator.equals("Mul") || operator.equals("Div"))) {
             System.out.println("Please provide Add, Sub or Mul as the operator argument.");
             return "";
         }

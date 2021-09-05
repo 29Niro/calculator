@@ -2,32 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de35c7cd-198a-490e-9fdb-14a17fd20bc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/operation/AddOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/operation/MulOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/operation/SubOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/CommandLineInputs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/FileReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/operation/AddOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/operation/MulOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/operation/Operation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/operation/SubOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/CommandLineInputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/operation/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/operation/MulOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/operation/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/operation/SubOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/AddOperation.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/MulOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v3/SubOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/AddOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/operation/AddOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/CommandLineInputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/calculator/com/kelaniya/uni/v4/CommandLineInputs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/MulOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/operation/MulOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/SubOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v3/operation/SubOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/CommandLineInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/CommandLineInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/operation/OperationFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com.kelaniya.uni/v4/operation/OperationFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +47,7 @@
       <recent name="$PROJECT_DIR$/src/java/com.kelaniya.uni" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kelaniya.uni.v4.operation" />
       <recent name="com.kelaniya.uni.v3" />
     </key>
   </component>
@@ -119,7 +100,7 @@
       <workItem from="1630200352252" duration="5371000" />
       <workItem from="1630242893629" duration="5382000" />
       <workItem from="1630764612137" duration="2899000" />
-      <workItem from="1630847631620" duration="3855000" />
+      <workItem from="1630847631620" duration="5269000" />
     </task>
     <servers />
   </component>
