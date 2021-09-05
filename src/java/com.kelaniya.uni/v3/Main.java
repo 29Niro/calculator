@@ -1,9 +1,10 @@
 package com.kelaniya.uni.v3;
 
+import com.kelaniya.uni.v3.operation.AddOperation;
+import com.kelaniya.uni.v3.operation.MulOperation;
+import com.kelaniya.uni.v3.operation.SubOperation;
+
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws IOException {
