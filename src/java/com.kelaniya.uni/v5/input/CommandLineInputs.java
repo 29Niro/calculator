@@ -1,6 +1,6 @@
-package com.kelaniya.uni.v4;
+package com.kelaniya.uni.v5.input;
 
-public class CommandLineInputs {
+public class CommandLineInputs implements Inputs{
 
     private String[] args;
 
@@ -13,7 +13,7 @@ public class CommandLineInputs {
         //make validate arguments before using
         if (args.length == 0) {
             System.out.println("Please provide the operation as an argument");
-            return ""; // Default value: arguments
+            return "";
         }
 
         //Add, Sub, Mul
