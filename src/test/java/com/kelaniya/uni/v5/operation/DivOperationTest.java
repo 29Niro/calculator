@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
+import static org.junit.Assert.assertThrows;
 
 public class DivOperationTest {
 
@@ -20,7 +21,7 @@ public class DivOperationTest {
     public void should_not_divide_by_zero() throws InvalidCalcOperationException {
 
         DivOperation divOperation = new DivOperation();
-        assertThat(InvalidOperationException.class, () -> {
+        assertThrows(InvalidCalcOperationException.class, () -> {
             divOperation.execute(new Double[]{6.0, 0.0});
         });
     }
